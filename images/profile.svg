@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder portrait">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f5c63"/><stop offset="1" stop-color="#d9902f"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#g)"/>
+<g><circle cx="400" cy="430" r="120.0" fill="#f3d2b3"/>
+<path d="M140.0 1030.0 Q140.0 610.0 400 610.0 Q660.0 610.0 660.0 1030.0 Z" fill="#0f5c63"/>
+<path d="M276.0 410.0 Q280.0 270.0 400 270.0 Q520.0 270.0 524.0 410.0 Q480.0 340.0 400 340.0 Q320.0 340.0 276.0 410.0 Z" fill="#2b1d17"/></g><text x="400" y="130" font-family="Arial" font-size="34" font-weight="700" fill="#fff" text-anchor="middle">YOUR PORTRAIT</text>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="230.0" y="930" width="340" height="40" rx="20" fill="rgba(0,0,0,.45)"/>
+<text x="400.0" y="956" font-size="17" fill="#fff">MOCK IMAGE - replace with your own</text></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Placeholder feedback">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f5c63"/><stop offset="1" stop-color="#12353b"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#g)"/>
+<g font-family="Georgia, serif" fill="#fff">
+<text x="160" y="260" font-size="200" fill="#f0b35a">&#8220;</text>
+<rect x="260" y="230" width="720" height="22" rx="11" fill="rgba(255,255,255,.75)"/>
+<rect x="260" y="280" width="640" height="22" rx="11" fill="rgba(255,255,255,.55)"/>
+<rect x="260" y="330" width="520" height="22" rx="11" fill="rgba(255,255,255,.4)"/>
+<text x="260" y="440" font-family="Arial" font-size="26" fill="#ffe3b0">- Student / Lecturer name</text></g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="430.0" y="680" width="340" height="40" rx="20" fill="rgba(0,0,0,.45)"/>
+<text x="600.0" y="706" font-size="17" fill="#fff">MOCK IMAGE - replace with your own</text></g>
+</svg>
